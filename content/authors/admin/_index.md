@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Dipesh Kunwar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dipesh
+last_name: Kunwar
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,134 +20,88 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Aerospace Engineering Graduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Tribhuvan University, IOE, Pulchowk Campus
+    url: https://pcampus.edu.np//
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dkunwar12@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+    url: https://scholar.google.com/citations?hl=en&user=lRZCtLMAAAAJ
+  - icon: brands/github
+    url: https://github.com/louly-me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/dipesh-kunwar/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachlor's Degree in Aerospace Engineering
+    institution: Tribhuvan University
+    date_start: 2018-11-16
+    date_end: 2023-04-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Grade: 87.89% (Equivalent GPA 4.0/4.0)
+      - Ranked 2nd among all Engineering students from IOE
+      
+      - Thesis on _Formulation of Insitu Flight Performance Toolbox for Decision Support System_. Supervised by [Dr. Sudip Bhattrai](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/). 
+      
+      Relevant Coursework: Flight Dynamics, Aircraft Preliminary Design, UAV Synthesis, Aerodynamics, Computational Fluid Dynamics, Aircraft Propulsion
+      
+      Electives: Compressible Aerodynamics, Hypersonics, Advanced Propulsion System
+
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      url: 'https://elibrary.tucl.edu.np/handle/20.500.14540/17733'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Energy Systems Engineer
+    company_name: Nernst Energy System LLP
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-04-09
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+      - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications
+      -Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
+  - position: Instructor
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-08-01
+    date_end: 2024-01-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Worked as an Instrcutor and/or labortory assitant(*) for the undergraduate mechanical engineering courses listed below. Classes assisted:
+      - Engineering Drawing
+      - Thermodynamics
+      - Strength of Materials
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  - position: Mechanical Engineering Intern
+    company_name:  Heli Air Nepal Pvt. Limited
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-05-01
+    date_end: 2023-10-31
+    summary: |
+      - Oversaw ground operations and flight planning, including creating weight and balance charts and route layouts for gyrocopter missions.
+      - Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - position: Engineering Intern - Operations Engineering and Planning Division
+    company_name:  Nepal Airlines Corporation
+    company_url: 'https://www.nepalairlines.com.np/'
+    company_logo: ''
+    date_start: 2022-11-15
+    date_end: 2023-01-31
+    summary: |
+      - Digitized performance charts for the DHC-6 Series 300 aircraft operated by Nepal Airlines Corporation, utilizing advanced analytical techniques.
+      - Contributed to flight route planning by generating Regulated Takeoff Weight (RTOW) and aircraft weight and balance data.
+      - Designed and implemented a MATLAB-based application for aircraft performance calculations tailored to the DHC-6 Series 300.
 
 # Awards.
 #   Add/remove as many awards below as you like.
