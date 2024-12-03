@@ -49,7 +49,7 @@ featured: true
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'UAV Poster'
+url_poster: 'UAV Poster.pdf'
 url_project: ''
 
 # Featured image
