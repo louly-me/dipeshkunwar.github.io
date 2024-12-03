@@ -42,7 +42,7 @@ education:
     date_start: 2018-11-16
     date_end: 2023-04-16
     summary: |
-      <span style="font-size: 0.8em;">
+      <small>
       Grade: 87.89% (Equivalent GPA 4.0/4.0)
       
       - Ranked 2<sup>nd</sup> among all Engineering students from IOE
@@ -52,7 +52,7 @@ education:
       Relevant Coursework: Flight Dynamics, Aircraft Preliminary Design, UAV Synthesis, Aerodynamics, Computational Fluid Dynamics, Aircraft Propulsion
       
       Electives: Compressible Aerodynamics, Hypersonics, Advanced Propulsion System
-      </span>
+      </small>
 
     button:
       text: 'Read Thesis'
@@ -67,11 +67,11 @@ work:
     date_start: 2023-04-09
     date_end: ''
     summary: |
-      <span style="font-size: 0.8em;">
+      <small>
       - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
 
       - Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
-      </span>
+      </small>
 
   - position: Instructor
     company_name: Pokhara Engineering College
@@ -80,14 +80,14 @@ work:
     date_start: 2023-08-01
     date_end: 2024-01-01
     summary: |
-      <span style="font-size: 0.8em;">
+      <small>
       Worked as an Instrcutor and/or labortory assitant(*) for the undergraduate mechanical engineering courses listed below. Classes assisted:
 
       - MEC 109: Engineering Drawing
       - MEC 189: Thermodynamics *
       - MEC 178: Mechanical Workshop
       - MEC 288: Strength of Materials *
-      </span>
+      </small>
   - position: Mechanical Engineering Intern
     company_name:  Heli Air Nepal Pvt. Limited
     company_url: ''
@@ -96,9 +96,10 @@ work:
     date_end: 2023-10-31
     summary: |
       <small>
+
       - Oversaw ground operations and flight planning, including creating weight and balance charts and route layouts for gyrocopter missions.
 
-      -Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
+      - Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
       </small>
 
   - position: Engineering Intern - Operations Engineering and Planning Division
