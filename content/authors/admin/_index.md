@@ -3,15 +3,11 @@
 title: Dipesh Kunwar
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Dipesh
 last_name: Kunwar
-
-# Status emoji
-status:
-  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -41,13 +37,13 @@ profiles:
     url: https://www.linkedin.com/in/dipesh-kunwar/
 
 education:
-  - area: Bachlor's Degree in Aerospace Engineering
+  - area: B.Eng in Aerospace Engineering
     institution: Tribhuvan University
     date_start: 2018-11-16
     date_end: 2023-04-16
     summary: |
       Grade: 87.89% (Equivalent GPA 4.0/4.0)
-      - Ranked 2nd among all Engineering students from IOE
+      - Ranked 2<sup>nd</sup> among all Engineering students from IOE
       
       - Thesis on _Formulation of Insitu Flight Performance Toolbox for Decision Support System_. Supervised by [Dr. Sudip Bhattrai](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/). 
       
@@ -67,11 +63,11 @@ work:
     company_logo: ''
     date_start: 2023-04-09
     date_end: ''
-    summary: |2-
-      - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications
-      -Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
+    summary: |
+      - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
+      - Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
   - position: Instructor
-    company_name: X
+    company_name: Pokhara Engineering College
     company_url: ''
     company_logo: ''
     date_start: 2023-08-01
@@ -79,8 +75,8 @@ work:
     summary: |
       Worked as an Instrcutor and/or labortory assitant(*) for the undergraduate mechanical engineering courses listed below. Classes assisted:
       - Engineering Drawing
-      - Thermodynamics
-      - Strength of Materials
+      - Thermodynamics *
+      - Strength of Materials *
 
   - position: Mechanical Engineering Intern
     company_name:  Heli Air Nepal Pvt. Limited
@@ -108,33 +104,34 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Tribhuvan University Silver Medalist
+    date: '2023-08-01'
+    awarder: Tribhuvan University
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      for ranking 2<sup>nd</sup> among all engineering graduates in 2023
+
+  - title: Springer Nature’s award for Best Poster Presentation
+    url: 
+    date: '2022-12-01'
+    awarder: Springer Nature
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      at 17<sup>th</sup> International Conference on Vibration Engineering and Technology of Machinery-VETOMAC 2022 
+  - title: Global Award Nominee
+    url: https://2020.spaceappschallenge.org/challenges/inform/mission-planet-earth-digital-history/teams/team-tyro/project
+    date: '2020-01-21'
+    awarder: NASA Space Apps Challange
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Global Award Nominee for NASA International Space Apps Challenge
+  - title: Nepal Government's merit-based full scholarship
+    date: '2018-05-11'
+    awarder: Tribhuvan University
+    summary: |
+      Nepal Government's merit-based full scholarship for BE in Aerospace engineering (National Rank: 73<sup>rd</sup>}, Aerospace Major: 3<sup>rd</sup>)
 ---
 
-## About Me
+## Biography
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Dipesh Kunwar is an Aerospace Engineer with a Bachelor's degree from Tribhuvan University, Institute of Engineering, Pulchowk Campus. With previous expriences in UAV systems, aircraft performance and flight operations his research work spans along aerospace systems design, design optimization, and sustainable propulsion powertrains.
+
+[Dipesh actively seeking to contribute his expertise to innovative engineering and research teams.]
