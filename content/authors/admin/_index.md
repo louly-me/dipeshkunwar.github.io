@@ -39,7 +39,7 @@ profiles:
 education:
   - area: B.Eng in Aerospace Engineering
     institution: Tribhuvan University
-    date_start: 
+    date_start: 2018-11-16
     date_end: 2023-04-16
     summary: |
       <small>
@@ -59,14 +59,14 @@ education:
 
     - area: High School Diploma, Physical Sciences - NEB
     institution: Karunanidhi Education Foundation (KEF) Higher Secondary School
-    date_start: 
+    date_start: 2016-07-16
     date_end: 2018-07-16
     summary: |
       <small>
       Grade: 3.62/4.0
     - area: School Leaving Certificate (SLC) Examination - GoN
     institution: Karunanidhi Education Foundation (KEF) Higher Secondary School
-    date_start: 
+    date_start: 2015-07-16
     date_end: 2016-07-16
     summary: |
       <small>
