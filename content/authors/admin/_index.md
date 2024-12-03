@@ -72,7 +72,7 @@ work:
       
       - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
 
-      - Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
+      -Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
       </small>
 
   - position: Instructor
