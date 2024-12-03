@@ -31,7 +31,7 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      text: ""
+      text: "You can visit my [Google Scholar profile here](https://scholar.google.com/citations?hl=en&user=lRZCtLMAAAAJ) to see my publicly available publications."
       filters:
         folders:
           - publication
