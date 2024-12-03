@@ -42,7 +42,7 @@ education:
     date_start: 2018-11-16
     date_end: 2023-04-16
     summary: |
-      <small>
+      <span style="font-size: 1.2em;">
       Grade: 87.89% (Equivalent GPA 4.0/4.0)
       - Ranked 2<sup>nd</sup> among all Engineering students from IOE
       
@@ -51,7 +51,7 @@ education:
       Relevant Coursework: Flight Dynamics, Aircraft Preliminary Design, UAV Synthesis, Aerodynamics, Computational Fluid Dynamics, Aircraft Propulsion
       
       Electives: Compressible Aerodynamics, Hypersonics, Advanced Propulsion System
-      </small>
+      </span>
 
     button:
       text: 'Read Thesis'
