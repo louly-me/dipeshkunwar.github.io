@@ -69,6 +69,7 @@ work:
     summary: |
       <span style="font-size: 0.8em;">
       - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
+
       - Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
       </span>
 
@@ -81,6 +82,7 @@ work:
     summary: |
       <span style="font-size: 0.8em;">
       Worked as an Instrcutor and/or labortory assitant(*) for the undergraduate mechanical engineering courses listed below. Classes assisted:
+
       - MEC 109: Engineering Drawing
       - MEC 189: Thermodynamics *
       - MEC 178: Mechanical Workshop
@@ -93,10 +95,11 @@ work:
     date_start: 2023-05-01
     date_end: 2023-10-31
     summary: |
-      <span style="font-size: 0.8em">
+      <small>
       - Oversaw ground operations and flight planning, including creating weight and balance charts and route layouts for gyrocopter missions.
-      - Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
-      </span>
+
+      -Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
+      </small>
 
   - position: Engineering Intern - Operations Engineering and Planning Division
     company_name:  Nepal Airlines Corporation
@@ -105,14 +108,14 @@ work:
     date_start: 2022-11-15
     date_end: 2023-01-31
     summary: |
-      <span style="font-size: 0.8em;">
+      <small>
 
       - Digitized performance charts for the DHC-6 Series 300 aircraft operated by Nepal Airlines Corporation, utilizing advanced analytical techniques.
       
       - Contributed to flight route planning by generating Regulated Takeoff Weight (RTOW) and aircraft weight and balance data.
       
       - Designed and implemented a MATLAB-based application for aircraft performance calculations tailored to the DHC-6 Series 300.
-      </span>
+      </small>
 
 # Awards.
 #   Add/remove as many awards below as you like.
