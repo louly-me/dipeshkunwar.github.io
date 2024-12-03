@@ -54,7 +54,7 @@ education:
       </small>
 
     button:
-      text: '<small>Read Thesis</small>'
+      text: '<small> Read Thesis </small>'
       url: 'https://elibrary.tucl.edu.np/handle/20.500.14540/17733'
 
 
@@ -139,18 +139,24 @@ awards:
     date: '2022-12-01'
     awarder: Springer Nature
     summary: |
-    <small>Recipient of the Springer Nature Best Poster Award at the <b>17<sup>th</sup> International Conference on Vibration Engineering and Technology of Machinery (VETOMAC 2022)</b> for the presentation titled <em>"Study on Effects of Spring and Damping Elements on UAV Landing Gear System"</em>. </small>
+      <small> 
+      Recipient of the Springer Nature Best Poster Award at the <b>17<sup>th</sup> International Conference on Vibration Engineering and Technology of Machinery (VETOMAC 2022)</b> for the presentation titled <em>"Study on Effects of Spring and Damping Elements on UAV Landing Gear System"</em>. 
+      </small>
   - title: Global Award Nominee
     url: https://2020.spaceappschallenge.org/challenges/inform/mission-planet-earth-digital-history/teams/team-tyro/project
     date: '2020-01-21'
     awarder: NASA Space Apps Challange
     summary: |
-      <small>Winner of the <b>Bagmati Province</b> round and nominee for the <b>Global Award</b> in the <b>NASA International Space Apps Challenge 2020</b>, recognizing exceptional innovation and problem-solving in one of the largest global hackathons dedicated to space science and technology.</small>
+      <small>
+      Winner of the <b>Bagmati Province</b> round and nominee for the <b>Global Award</b> in the <b>NASA International Space Apps Challenge 2020</b>, recognizing exceptional innovation and problem-solving in one of the largest global hackathons dedicated to space science and technology.
+      </small>
   - title: Nepal Government's merit-based full scholarship
     date: '2018-05-11'
     awarder: Tribhuvan University
     summary: |
-      <small>Recipient of the <b>Nepal Government's merit-based full scholarship</b> for a Bachelor of Engineering in Aerospace Engineering, awarded for achieving a <b>national rank of 73rd</b> and ranking <b>3rd among Aerospace Engineering majors</b>. </small>
+      <small>
+      Recipient of the <b>Nepal Government's merit-based full scholarship</b> for a Bachelor of Engineering in Aerospace Engineering, awarded for achieving a <b>national rank of 73rd</b> and ranking <b>3rd among Aerospace Engineering majors</b>. 
+      </small>
 ---
 
 ## Biography
