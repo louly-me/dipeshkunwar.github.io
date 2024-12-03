@@ -54,7 +54,7 @@ education:
       </small>
 
     button:
-      text: '<small>Read Thesis</small?'
+      text: '<small>Read Thesis</small>'
       url: 'https://elibrary.tucl.edu.np/handle/20.500.14540/17733'
 
 
@@ -65,7 +65,7 @@ work:
     company_logo: ''
     date_start: 2023-04-09
     date_end: ''
-    summary: 
+    summary: |
       <small>
 
       - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
