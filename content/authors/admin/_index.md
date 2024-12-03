@@ -54,7 +54,7 @@ education:
       </small>
 
     button:
-      text: '<small> Read Thesis </small>'
+      text: 'Read Thesis'
       url: 'https://elibrary.tucl.edu.np/handle/20.500.14540/17733'
 
 
@@ -127,7 +127,7 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Tribhuvan University Silver Medalist
+  - title: <small> Tribhuvan University Silver Medalist </small>
     date: '2023-08-01'
     awarder: Tribhuvan University
     summary: |
