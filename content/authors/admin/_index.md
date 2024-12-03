@@ -48,13 +48,13 @@ education:
       - Ranked 2<sup>nd</sup> among all Engineering students from IOE
       - Thesis on _Formulation of Insitu Flight Performance Toolbox for Decision Support System_. Supervised by [Dr. Sudip Bhattrai](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/). 
 
-      Relevant Coursework: Flight Dynamics, Aircraft Preliminary Design, UAV Synthesis, Aerodynamics, Computational Fluid Dynamics, Aircraft Propulsion
+      [Relevant Coursework:]() Flight Dynamics, Aircraft Preliminary Design, UAV Synthesis, Aerodynamics, Computational Fluid Dynamics, Aircraft Propulsion
       
-      Electives: Compressible Aerodynamics, Hypersonics, Advanced Propulsion System
+      [Electives:]() Compressible Aerodynamics, Hypersonics, Advanced Propulsion System
       </small>
 
     button:
-      text: 'Read Thesis'
+      text: '<small>Read Thesis</small?'
       url: 'https://elibrary.tucl.edu.np/handle/20.500.14540/17733'
 
 
@@ -67,9 +67,11 @@ work:
     date_end: ''
     summary: 
       <small>
+
       - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
 
       - Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
+
       </small>
 
   - position: Instructor
@@ -86,6 +88,7 @@ work:
       - MEC 189: Thermodynamics *
       - MEC 178: Mechanical Workshop
       - MEC 288: Strength of Materials *
+
       </small>
   - position: Mechanical Engineering Intern
     company_name:  Heli Air Nepal Pvt. Limited
@@ -95,9 +98,11 @@ work:
     date_end: 2023-10-31
     summary: |
       <small>
+
       - Oversaw ground operations and flight planning, including creating weight and balance charts and route layouts for gyrocopter missions.
 
       - Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
+
       </small>
 
   - position: Engineering Intern - Operations Engineering and Planning Division
@@ -108,11 +113,13 @@ work:
     date_end: 2023-01-31
     summary: |
       <small>
+
       - Digitized performance charts for the DHC-6 Series 300 aircraft operated by Nepal Airlines Corporation, utilizing advanced analytical techniques.
       
       - Contributed to flight route planning by generating Regulated Takeoff Weight (RTOW) and aircraft weight and balance data.
       
       - Designed and implemented a MATLAB-based application for aircraft performance calculations tailored to the DHC-6 Series 300.
+
       </small>
 
 # Awards.
