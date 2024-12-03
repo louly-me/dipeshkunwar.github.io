@@ -93,7 +93,7 @@ work:
     date_start: 2023-05-01
     date_end: 2023-10-31
     summary: |
-      <span style="font-size: 0.8em;">
+      <span style="font-size: 0.8em">
       - Oversaw ground operations and flight planning, including creating weight and balance charts and route layouts for gyrocopter missions.
       - Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
       </span>
@@ -106,8 +106,11 @@ work:
     date_end: 2023-01-31
     summary: |
       <span style="font-size: 0.8em;">
+
       - Digitized performance charts for the DHC-6 Series 300 aircraft operated by Nepal Airlines Corporation, utilizing advanced analytical techniques.
+      
       - Contributed to flight route planning by generating Regulated Takeoff Weight (RTOW) and aircraft weight and balance data.
+      
       - Designed and implemented a MATLAB-based application for aircraft performance calculations tailored to the DHC-6 Series 300.
       </span>
 
