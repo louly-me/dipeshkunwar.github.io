@@ -155,7 +155,7 @@ awards:
     awarder: Tribhuvan University
     summary: |
       <small>
-      Recipient of the <b>Nepal Government's merit-based full scholarship</b> for a Bachelor of Engineering in Aerospace Engineering, awarded for achieving a <b>national rank of 73rd</b> and ranking <b>3rd among Aerospace Engineering majors</b>. 
+      Recipient of the <b>Nepal Government's merit-based full scholarship</b> for a Bachelor of Engineering in Aerospace Engineering, awarded for achieving a <b>national rank of 73<sup>rd</sup></b> and ranking <b>3<sup>rd</sup> among Aerospace Engineering majors</b>. 
       </small>
 ---
 
