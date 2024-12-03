@@ -47,9 +47,7 @@ education:
       Grade: 87.89% (Equivalent GPA 4.0/4.0)
       
       - Ranked 2<sup>nd</sup> among all Engineering students from IOE
-      
       - Thesis on _Formulation of Insitu Flight Performance Toolbox for Decision Support System_. Supervised by [Dr. Sudip Bhattrai](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/). 
-      
       Relevant Coursework: Flight Dynamics, Aircraft Preliminary Design, UAV Synthesis, Aerodynamics, Computational Fluid Dynamics, Aircraft Propulsion
       
       Electives: Compressible Aerodynamics, Hypersonics, Advanced Propulsion System
@@ -67,12 +65,10 @@ work:
     company_logo: ''
     date_start: 2023-04-09
     date_end: ''
-    summary: |
+    summary: 
       <small>
-      
       - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
-
-      -Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
+      - Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
       </small>
 
   - position: Instructor
@@ -83,7 +79,6 @@ work:
     date_end: 2024-01-01
     summary: |
       <small>
-      
       Worked as an Instrcutor and/or labortory assitant(*) for the undergraduate mechanical engineering courses listed below. Classes assisted:
 
       - MEC 109: Engineering Drawing
@@ -99,9 +94,7 @@ work:
     date_end: 2023-10-31
     summary: |
       <small>
-
       - Oversaw ground operations and flight planning, including creating weight and balance charts and route layouts for gyrocopter missions.
-
       - Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
       </small>
 
@@ -113,11 +106,8 @@ work:
     date_end: 2023-01-31
     summary: |
       <small>
-
       - Digitized performance charts for the DHC-6 Series 300 aircraft operated by Nepal Airlines Corporation, utilizing advanced analytical techniques.
-      
       - Contributed to flight route planning by generating Regulated Takeoff Weight (RTOW) and aircraft weight and balance data.
-      
       - Designed and implemented a MATLAB-based application for aircraft performance calculations tailored to the DHC-6 Series 300.
       </small>
 
