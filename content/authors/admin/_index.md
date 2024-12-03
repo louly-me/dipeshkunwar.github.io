@@ -145,11 +145,13 @@ awards:
     awarder: NASA Space Apps Challange
     summary: |
       Winner of the <strong>Bagmati Province</strong> round and nominee for the <strong>Global Award</strong> in the <strong>NASA International Space Apps Challenge 2020</strong>, recognizing exceptional innovation and problem-solving in one of the largest global hackathons dedicated to space science and technology.
-  - title: Nepal Government's merit-based full scholarship
+  - title: <medium> Nepal Government's merit-based full scholarship </medium>
     date: '2018-05-11'
     awarder: Tribhuvan University
     summary: |
+    <small>
       Recipient of the <strong>Nepal Government's merit-based full scholarship</strong> for a Bachelor of Engineering in Aerospace Engineering, awarded for achieving a <strong>national rank of 73rd</strong> and ranking <strong>3rd among Aerospace Engineering majors</strong>.
+    </small>
 ---
 
 ## Biography
