@@ -134,4 +134,4 @@ awards:
 
 Dipesh Kunwar is an Aerospace Engineer with a Bachelor's degree from Tribhuvan University, Institute of Engineering, Pulchowk Campus. With previous expriences in UAV systems, aircraft performance and flight operations his research work spans along aerospace systems design, design optimization, and sustainable propulsion powertrains.
 
-[Dipesh actively seeking to contribute his expertise to innovative engineering and research teams.]
+<b>Dipesh actively seeking to contribute his expertise to innovative engineering and research teams.</b>
