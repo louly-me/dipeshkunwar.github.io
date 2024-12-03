@@ -131,25 +131,25 @@ awards:
     date: '2023-08-01'
     awarder: Tribhuvan University
     summary: |
-      for ranking 2<sup>nd</sup> among all engineering graduates in 2023
+      Awarded the prestigious Silver Medal by Tribhuvan University for securing 2<sup>nd</sup> position among all 2023 engineering graduates, ranking 2<sup>nd</sup> out of 48 in Aerospace Engineering and 2<sup>nd</sup> out of approximately 3,500 engineering graduates across all disciplines.
 
   - title: Springer Nature’s award for Best Poster Presentation
     url: 
     date: '2022-12-01'
     awarder: Springer Nature
     summary: |
-      at 17<sup>th</sup> International Conference on Vibration Engineering and Technology of Machinery-VETOMAC 2022 
+      Recipient of the Springer Nature Best Poster Award at the <strong>17<sup>th</sup> International Conference on Vibration Engineering and Technology of Machinery (VETOMAC 2022)</strong> for the presentation titled <em>"Study on Effects of Spring and Damping Elements on UAV Landing Gear System"</em>. 
   - title: Global Award Nominee
     url: https://2020.spaceappschallenge.org/challenges/inform/mission-planet-earth-digital-history/teams/team-tyro/project
     date: '2020-01-21'
     awarder: NASA Space Apps Challange
     summary: |
-      Global Award Nominee for NASA International Space Apps Challenge
+      Winner of the <strong>Bagmati Province</strong> round and nominee for the <strong>Global Award</strong> in the <strong>NASA International Space Apps Challenge 2020</strong>, recognizing exceptional innovation and problem-solving in one of the largest global hackathons dedicated to space science and technology.
   - title: Nepal Government's merit-based full scholarship
     date: '2018-05-11'
     awarder: Tribhuvan University
     summary: |
-      Nepal Government's merit-based full scholarship for BE in Aerospace engineering (National Rank: 73<sup>rd</sup>}, Aerospace Major: 3<sup>rd</sup>)
+      Recipient of the <strong>Nepal Government's merit-based full scholarship</strong> for a Bachelor of Engineering in Aerospace Engineering, awarded for achieving a <strong>national rank of 73rd</strong> and ranking <strong>3rd among Aerospace Engineering majors</strong>.
 ---
 
 ## Biography
