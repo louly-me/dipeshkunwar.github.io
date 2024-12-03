@@ -56,13 +56,14 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://elibrary.tucl.edu.np/handle/20.500.14540/17733'
-  - area: High School Diploma, Physical Sciences- NEB
+  - area: High School Diploma, Physical Sciences - NEB
     institution: Karunanidhi Education Foundation (KEF) Higher Secondary School
     date_start: 2016-07-16
     date_end: 2018-07-16
     summary: |
       <small>
       Grade: 3.62/4.0
+      </small>
   - area: School Leaving Certificate (SLC) Examination - GoN
     institution: Karunanidhi Education Foundation (KEF) Higher Secondary School
     date_start: 2015-07-16
@@ -70,6 +71,7 @@ education:
     summary: |
       <small>
       Grade: 3.70/4.0
+      </small>
 
     
 
