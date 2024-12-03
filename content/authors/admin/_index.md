@@ -42,8 +42,9 @@ education:
     date_start: 2018-11-16
     date_end: 2023-04-16
     summary: |
-      <span style="font-size: 1.2em;">
+      <span style="font-size: 0.8em;">
       Grade: 87.89% (Equivalent GPA 4.0/4.0)
+      
       - Ranked 2<sup>nd</sup> among all Engineering students from IOE
       
       - Thesis on _Formulation of Insitu Flight Performance Toolbox for Decision Support System_. Supervised by [Dr. Sudip Bhattrai](https://mech.pcampus.edu.np/our-people/sudip-bhattrai/). 
@@ -66,8 +67,11 @@ work:
     date_start: 2023-04-09
     date_end: ''
     summary: |
+      <span style="font-size: 0.8em;">
       - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
       - Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
+      </span>
+
   - position: Instructor
     company_name: Pokhara Engineering College
     company_url: ''
@@ -75,11 +79,13 @@ work:
     date_start: 2023-08-01
     date_end: 2024-01-01
     summary: |
+      <span style="font-size: 0.8em;">
       Worked as an Instrcutor and/or labortory assitant(*) for the undergraduate mechanical engineering courses listed below. Classes assisted:
-      - Engineering Drawing
-      - Thermodynamics *
-      - Strength of Materials *
-
+      - MEC 109: Engineering Drawing
+      - MEC 189: Thermodynamics *
+      - MEC 178: Mechanical Workshop
+      - MEC 288: Strength of Materials *
+      </span>
   - position: Mechanical Engineering Intern
     company_name:  Heli Air Nepal Pvt. Limited
     company_url: ''
@@ -87,8 +93,10 @@ work:
     date_start: 2023-05-01
     date_end: 2023-10-31
     summary: |
+      <span style="font-size: 0.8em;">
       - Oversaw ground operations and flight planning, including creating weight and balance charts and route layouts for gyrocopter missions.
       - Assisted the maintenance team in record keeping and managing technical logs for daily and routine maintenance.
+      </span>
 
   - position: Engineering Intern - Operations Engineering and Planning Division
     company_name:  Nepal Airlines Corporation
@@ -97,9 +105,11 @@ work:
     date_start: 2022-11-15
     date_end: 2023-01-31
     summary: |
+      <span style="font-size: 0.8em;">
       - Digitized performance charts for the DHC-6 Series 300 aircraft operated by Nepal Airlines Corporation, utilizing advanced analytical techniques.
       - Contributed to flight route planning by generating Regulated Takeoff Weight (RTOW) and aircraft weight and balance data.
       - Designed and implemented a MATLAB-based application for aircraft performance calculations tailored to the DHC-6 Series 300.
+      </span>
 
 # Awards.
 #   Add/remove as many awards below as you like.
