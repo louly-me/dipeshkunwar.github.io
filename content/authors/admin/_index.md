@@ -134,32 +134,32 @@ awards:
       <small>
       Awarded the prestigious Silver Medal by Tribhuvan University for securing 2<sup>nd</sup> position among all 2023 engineering graduates, ranking 2<sup>nd</sup> out of 48 in Aerospace Engineering and 2<sup>nd</sup> out of approximately 3,500 engineering graduates across all disciplines.
       </small>
-  - title: Springer Nature’s award for Best Poster Presentation
+  - title: <small> Springer Nature’s award for Best Poster Presentation </small>
     url: 
     date: '2022-12-01'
     awarder: Springer Nature
     summary: |
       <small> 
-      Recipient of the Springer Nature Best Poster Award at the <b>17<sup>th</sup> International Conference on Vibration Engineering and Technology of Machinery (VETOMAC 2022)</b> for the presentation titled <em>"Study on Effects of Spring and Damping Elements on UAV Landing Gear System"</em>. 
+      Recipient of the Springer Nature Best Poster Award at the <strong>17<sup>th</sup> International Conference on Vibration Engineering and Technology of Machinery (VETOMAC 2022)</strong> for the presentation titled <em>"Study on Effects of Spring and Damping Elements on UAV Landing Gear System"</em>. 
       </small>
-  - title: Global Award Nominee
+  - title: <small> Global Award Nominee </small>
     url: https://2020.spaceappschallenge.org/challenges/inform/mission-planet-earth-digital-history/teams/team-tyro/project
     date: '2020-01-21'
     awarder: NASA Space Apps Challange
     summary: |
       <small>
-      Winner of the <b>Bagmati Province</b> round and nominee for the <b>Global Award</b> in the <b>NASA International Space Apps Challenge 2020</b>, recognizing exceptional innovation and problem-solving in one of the largest global hackathons dedicated to space science and technology.
+      Winner of the <strong>Bagmati Province</strong> round and nominee for the <strong>Global Award</strong> in the <strong>NASA International Space Apps Challenge 2020</strong>, recognizing exceptional innovation and problem-solving in one of the largest global hackathons dedicated to space science and technology.
       </small>
-  - title: Nepal Government's merit-based full scholarship
+  - title: <small> Nepal Government's merit-based full scholarship </small>
     date: '2018-05-11'
     awarder: Tribhuvan University
     summary: |
       <small>
-      Recipient of the <b>Nepal Government's merit-based full scholarship</b> for a Bachelor of Engineering in Aerospace Engineering, awarded for achieving a <b>national rank of 73rd</b> and ranking <b>3rd among Aerospace Engineering majors</b>. 
+      Recipient of the <strong>Nepal Government's merit-based full scholarship</strong> for a Bachelor of Engineering in Aerospace Engineering, awarded for achieving a <strong>national rank of 73rd</strong> and ranking <strong>3rd among Aerospace Engineering majors</strong>. 
       </small>
 ---
 
 ## Biography
 Dipesh Kunwar is an Aerospace Engineer with a Bachelor's degree from Tribhuvan University, Institute of Engineering, Pulchowk Campus. With previous expriences in UAV systems, aircraft performance and flight operations his research work spans along aerospace systems design, design optimization, and sustainable propulsion powertrains.
 
-<b>Dipesh is actively seeking to contribute his expertise to innovative engineering and research teams.</b>
+<strong>Dipesh is actively seeking to contribute his expertise to innovative engineering and research teams.</strong>
