@@ -43,6 +43,7 @@ education:
     date_end: 2023-04-16
     summary: |
       <small>
+      
       Grade: 87.89% (Equivalent GPA 4.0/4.0)
       
       - Ranked 2<sup>nd</sup> among all Engineering students from IOE
@@ -68,6 +69,7 @@ work:
     date_end: ''
     summary: |
       <small>
+      
       - Working on systems design and integration of a fuel cell-battery hybrid propulsion system for maritime and aviation applications.
 
       - Developing optimization frameworks for sizing and control of conceptual integrated fuel cell-battery powertrains in regional commercial airliners.
@@ -81,6 +83,7 @@ work:
     date_end: 2024-01-01
     summary: |
       <small>
+      
       Worked as an Instrcutor and/or labortory assitant(*) for the undergraduate mechanical engineering courses listed below. Classes assisted:
 
       - MEC 109: Engineering Drawing
