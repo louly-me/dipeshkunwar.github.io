@@ -5,7 +5,7 @@ authors:
 - Pratibha Bhandari
 - Swikriti Shrestha
 date: "2023-04-15T00:00:00Z"
-doi: https://elibrary.tucl.edu.np/handle/20.500.14540/17733
+doi:''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-15T00:00:00Z"
@@ -33,7 +33,7 @@ featured: true
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 
+url_pdf:  'https://elibrary.tucl.edu.np/handle/20.500.14540/17733'
 url_code: ''
 url_dataset: ''
 url_poster: ''
