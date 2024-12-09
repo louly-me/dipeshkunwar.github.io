@@ -36,9 +36,11 @@ sections:
         folders:
           - publication
         exclude_featured: false
-      text: "<small>Details on previous research and academic projects can be found in the[<u>projects tab</u>](/projects/Research) </small>"
     design:
       view: citation
+  - block: research
+    content:
+     text: "Details on previous research and academic projects can be found in the [projects tab.](/projects/research)"    
   - block: resume-awards
     content:
       title: Awards
