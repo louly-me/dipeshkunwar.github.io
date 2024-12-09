@@ -1,5 +1,5 @@
 ---
-title: Research Experiences
+title: Research and Project Experiences
 summary:
 type: landing
 ---

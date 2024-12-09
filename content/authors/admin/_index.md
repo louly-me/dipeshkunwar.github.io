@@ -99,7 +99,7 @@ work:
     date_end: 2024-01-01
     summary: |
       <small>
-      Worked as an Instrcutor and/or labortory assitant(*) for the undergraduate mechanical engineering courses listed below. Classes assisted:
+      Worked as an instructor and/or laboratory assistant (*) for the undergraduate mechanical engineering courses listed below. Classes assisted::
 
       - MEC 109: Engineering Drawing
       - MEC 189: Thermodynamics *
@@ -177,6 +177,6 @@ awards:
 ---
 
 ## Biography
-Dipesh Kunwar is an Aerospace Engineer with a Bachelor's degree with honors from Tribhuvan University, Institute of Engineering, Pulchowk Campus. With previous experiences in UAV systems, aircraft performance and flight operations his research work spans along aerospace systems design, design optimization, and sustainable propulsion powertrains. While still in the early stages of his academic career, his passion lies in sustainability and envirnomental responsibility in commercial aviation, through explorations in design, performance and operations. 
+Dipesh Kunwar is an Aerospace Engineer with a Bachelor’s degree with honors from Tribhuvan University, Institute of Engineering, Pulchowk Campus. With previous experience in UAV systems, aircraft performance, and flight operations, his research work spans aerospace systems design, design optimization, and sustainable propulsion powertrains. While still in the early stages of his academic career, his passion lies in sustainability and environmental responsibility in commercial aviation through explorations in design, performance, and operations.
 
 <b>Dipesh is actively seeking to contribute his expertise to innovative engineering and research teams.</b>
