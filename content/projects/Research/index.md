@@ -28,7 +28,7 @@ show_breadcrumb: true
 ## Formulation of Insitu Flight Performance Toolbox for Decision Support System
 <small>Undergraduate Thesis, Supervised by Dr. Sudip Bhattrai and Er. Vishal Paudel</small>
 <div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
-    <img src="APD-1.png" alt="Image 2"style="width: 75%; border-radius: 8px;">
+    <img src="GUI.png" alt="Image 2" style="width: 60%; border-radius: 8px;">
 </div>
 
 - Developed a mathematical model to estimate operational requirements and performance calculations for various flight phases using MATLAB, particularly tailored to the DHC-6, series 300 aircraft.
