@@ -6,7 +6,9 @@ type: docs
 pager: false
 show_breadcrumb: true
 ---
-<!—more—>
+
+<!—more—> 
+
 ## In situ Flight Data Analysis, Performance, and Planning for STOL Operations
 <small>Supervised by Dr. Sudip Bhattrai</small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
@@ -56,7 +58,7 @@ show_breadcrumb: true
 ## Study of Temperature Distribution and Cooling Effectiveness for Combined Impingement-Convection Cooling (CICC) in Strut Insert Turbine Blade
 <small> Academic Research, Supervised by Asst. Prof. Kamal Darlami </small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="CICC-1.ong" alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="CICC-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
     <img src="CICC-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
 </div>
 
