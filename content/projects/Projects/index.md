@@ -11,44 +11,16 @@ show_breadcrumb: false
 <small> In association with NEXA Flight, South Africa </small>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-   <!-- Static Image -->
-   <img src="Nexa-5.jpg" alt="Image 1" style="width: 48%; border-radius: 8px; height: auto;">
-
-  <!-- Slider for multiple images -->
-  <div style="width: 48%;">
-        <div id="slider" style="border-radius: 8px; overflow: hidden; position: relative;">
-            <div style="display: flex; transition: transform 0.5s ease; width: 100%;">
-                 <img src="Nexa-1.png" alt="Slide 1" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
-                <img src="Nexa-2.jpg" alt="Slide 2" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
-                <img src="Nexa-3.jpg" alt="Slide 3" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
-                <img src="Nexa-4.jpg" alt="Slide 4" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
-            </div>
-        </div>
-        <!-- Controls -->
-        <button onclick="prevSlide()" \style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 1;">◀</button>
-        <button onclick="nextSlide()" \style="position: absolute; right: 30px; top: 50%; transform: translateY(-50%); z-index: 1;">▶</button>
-    </div>
+   <img src="Nexa-solo.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
+   <img src="Nexa-1.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
+   <img src="Nexa-2.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
 </div>
-
-<script>
-    let currentIndex = 0;
-
-    function showSlide(index) {
-        const slider = document.querySelector('#slider > div');
-        const totalSlides = slider.children.length;
-        currentIndex = (index + totalSlides) % totalSlides;
-        slider.style.transform = `translateX(-${currentIndex * 100}%)`;
-    }
-
-    function prevSlide() {
-        showSlide(currentIndex - 1);
-    }
-
-    function nextSlide() {
-        showSlide(currentIndex + 1);
-    }
-</script>
-
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+   <img src="Nexa-3.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
+   <img src="Nexa-4.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
+   <img src="Nexa-5.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
+</div>       
+       
 - Led preliminary design and analysis for UAV with tilt-rotor mechanics and thrust vectoring to enable VTOL capabilities.
 - Optimized inlet shape and draft tubes for boom-mounted ducted fans, minimizing aerodynamic losses.
 - Managed manufacturing and structural design of components and molds.
@@ -87,7 +59,7 @@ show_breadcrumb: false
 <small> for the AIAA-DBF Club </small>
 <div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
     <img src="CNC.JPEG" alt="Image 2" style="width: 40%; border-radius: 8px;">
-    <img src="CNG.png" alt="Image 1" style="width: 40%; border-radius: 8px;">
+    <img src="CNG.jpg" alt="Image 1" style="width: 40%; border-radius: 8px;">
 </div>
 
 - Designed and fabricated a 4-axis Hotwire CNC Foam Cutter to shape styrofoam panels to the desired form for wings and empennage.
@@ -109,7 +81,7 @@ section using NI-SCB 68 DAQ system.
 
 ## Design and Manufacture of a Can-Sat for a High Altitude Baloon
 <small> Mechanical Design Lead| Initiated by [SEDS-Pulchowk](https://seds.pcampus.edu.np/) , in collaboration with [SEDS-Nepal](https://sedsnepal.org/)-High altitude balloon project </small>
-<div style="display: flex; justify-content: space-between; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
     <img src="SAT-1.png" alt="Image 1" style="height: 200px; border-radius: 8px;">
     <img src="SAT-2.png" alt="Image 2" style="height: 200px; border-radius: 8px;">
 </div>
