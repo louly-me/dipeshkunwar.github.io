@@ -1,138 +1,60 @@
 ---
-title: Research Experience
+title: Project Works
 summary:
-date: 2024-09-11
+date: 2024-12-08
 type: docs
-math: false
 pager: false
 show_breadcrumb: false
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+## XF-11 Replica VTOL Design and Testing using Tilt Rotor and Thrust Vectoring
+<small> In association with NEXA Flight, South Africa </small>
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="ifda-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="ifda-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
+</div>
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
-## Video
-
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
-{{< youtube D2vj0WcvH5c >}}
-
-**Youtube**:
-
-    {{</* youtube w7Ft2ymGmfc */>}}
-
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
-
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
-
-Example **math block**:
-
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+- Led preliminary design and analysis for UAV with tilt-rotor mechanics and thrust vectoring to enable VTOL capabilities.
+- Optimized inlet shape and draft tubes for boom-mounted ducted fans, minimizing aerodynamic losses.
+- Managed manufacturing and structural design of components and molds.
+- Assisted in mission planning and flight testing of the developed UAV system
 
 
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
 
-renders as
+**Related Publications**:
 
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
+[1] **D. Kunwar**, P. Bhandari, S. Shrestha, S. Bhattrai, V. Paudel and S. Neupane, _“In situ Flight Data Analysis, Performance, and Planning for STOL Operations,”_ AIAA Aviation Forum and ASCEND, Jul. 2024.Available: https://doi.org/10.2514/6.2024-4253
 
-## Inline Images
+## Formulation of Insitu Flight Performance Toolbox for Decision Support System
+<small>Undergraduate Thesis, Supervised by Dr. Sudip Bhattrai and Er. Vishal Paudel</small>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+       <img src="GUI.png" alt="Image 2" style="width: 75%; border-radius: 8px;">
+</div>
 
-```go
-{{</* icon name="python" */>}} Python
-```
+- Developed a mathematical model to estimate operational requirements and performance calculations for various
+flight phases using MATLAB, particularly tailored to the DHC-6, series 300 aircraft.
+- Validated and tested the model by cross-referencing it with performance charts and supplementary data obtained
+from Nepal Airlines Corporation.
+- Incorporated decision support aids the model for the imposed airport, aircraft, and regulatory limitations.
+- Designed an intuitive graphical interface integrating the outputs, decision aids, and flight profiles generated.
 
-renders as
+**Related Publications**:
 
-{{< icon name="python" >}} Python
+[1] **D. Kunwar**, P. Bhandari,and S. Shrestha, _“Formulation of Insitu Flight Performance Toolbox for Decision Support System,"_ Thesis, Tribhuvan University, Institute of Engineering, Pulchowk Campus, 2023. Available: https://elibrary.tucl.edu.np/handle/20.500.14540/17733
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Study on Effects of Spring and Damping Elements on UAV Landing Gear System
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="LG-1.jpeg" alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="LG-2.jpeg" alt="Image 2" style="width: 48%; border-radius: 8px;">
+</div>
+
+- Aimed at development of a suitable damping mechanism in landing gear to ensure safety of sensitive payloads during the delivery using UAV
+- Formulated a Simulink-based model to study the effects of spring and damping elements in a simplified oleo strut landing gear system for Unmanned Aerial Systems (UAS).
+- Utilized the model developed to choose suitable materials for spring and damper to limit the transmitted shock within 5g’s to ensure the safety of medical packages for a fixed-wing medical delivery drone
+
+**Related Publications**:
+
+[1] ] **D. Kunwar**, P. Paudel, S. Dhakal, S. Pandey, and S. Paudel, _“Study on Effect of Spring and Damping Elements on UAV Landing Gear System,”_ Poster, International Conference on Vibration Engineering and Technology
+of Machinery (VETOMAC), Springer Nature, 2022
