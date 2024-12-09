@@ -38,9 +38,13 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: research
+  - block: collection
     content:
      text: "Details on previous research and academic projects can be found in the [projects tab.](/projects/research)"    
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '0', '0', '0'] 
   - block: resume-awards
     content:
       title: Awards
