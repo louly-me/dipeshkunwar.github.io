@@ -11,15 +11,10 @@ show_breadcrumb: false
 <small> In association with NEXA Flight, South Africa </small>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-   <img src="Nexa-solo.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
-   <img src="Nexa-1.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
-   <img src="Nexa-2.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
-</div>
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-   <img src="Nexa-3.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
-   <img src="Nexa-4.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
    <img src="Nexa-5.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
-</div>       
+   <img src="Nexa-1.png" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
+   <img src="Nexa-2.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
+</div>   
        
 - Led preliminary design and analysis for UAV with tilt-rotor mechanics and thrust vectoring to enable VTOL capabilities.
 - Optimized inlet shape and draft tubes for boom-mounted ducted fans, minimizing aerodynamic losses.
