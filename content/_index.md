@@ -31,20 +31,13 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      text: "You can visit my [<u>Google Scholar profile here</u>](https://scholar.google.com/citations?hl=en&user=lRZCtLMAAAAJ) to see my publicly available publications."
+      text: "You can visit my [<u>Google Scholar profile here</u>](https://scholar.google.com/citations?hl=en&user=lRZCtLMAAAAJ) to see my publicly available publications. Details on previous research and academic projects can be found in the [projects tab.](/projects/research)"
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    content:
-      text: "Details on previous research and academic projects can be found in the [projects tab.](/projects/research)"    
-    design:
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '0', '0', '0'] 
   - block: resume-awards
     content:
       title: Awards
