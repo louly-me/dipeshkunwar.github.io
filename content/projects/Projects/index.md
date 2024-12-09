@@ -9,7 +9,6 @@ show_breadcrumb: false
 <!--more-->
 ## XF-11 Replica VTOL Design and Testing using Tilt Rotor and Thrust Vectoring
 <small> In association with NEXA Flight, South Africa </small>
-
 <div style="display: flex; justify-content: space-between; gap: 10px;">
    <img src="Nexa-5.jpg" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
    <img src="Nexa-1.png" alt="Image 1" style="width: 30%; border-radius: 8px; height: auto;">
