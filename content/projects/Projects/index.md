@@ -53,8 +53,7 @@ show_breadcrumb: false
 ## Design and Fabrication of a 4-axis Hotwire CNC Foam Cutter
 <small> for the AIAA-DBF Club </small>
 <div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
-    <img src="CNC.JPEG" alt="Image 2" style="width: 40%; border-radius: 8px;height: auto;">
-    <img src="CNC.jpg" alt="Image 1" style="width: 40%; border-radius: 8px; height: auto;">
+        <img src="CNC.jpg" alt="Image 1" style="width: 40%; border-radius: 8px; height: auto;">
 </div>
 
 - Designed and fabricated a 4-axis Hotwire CNC Foam Cutter to shape styrofoam panels to the desired form for wings and empennage.
