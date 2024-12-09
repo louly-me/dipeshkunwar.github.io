@@ -1,22 +1,28 @@
 ---
-title: Research Projects
+title: Project Works
 summary:
-date: 2024-12-09
+date: 2024-12-08
 type: docs
 pager: false
 show_breadcrumb: false
+header:
+  navbar:
+    enable: false
 ---
 
-## In situ Flight Data Analysis, Performance, and Planning for STOL Operations
-<small>Supervised by Dr. Sudip Bhattrai</small>
+## XF-11 Replica VTOL Design and Testing using Tilt Rotor and Thrust Vectoring
+<small> In association with NEXA Flight, South Africa </small>
+
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img src="ifda-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
     <img src="ifda-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
 </div>
 
-- Designed an In Situ Flight Data Analysis (iFDA) toolbox for turboprop aircraft, offering real-time performance calculations and decision-making aids, validated within 3% accuracy against flight manuals and simulations.
-- Integrated terrain proximity analysis and dynamic decision support to improve operational safety in complex, geographically constrained short takeoff and landing (STOL) environments.
-- Demonstrated the toolbox’s capability in real-time path planning and Controlled Flight Into Terrain (CFIT) avoidance for challenging terrains, such as Nepal’s Annapurna region.
+- Led preliminary design and analysis for UAV with tilt-rotor mechanics and thrust vectoring to enable VTOL capabilities.
+- Optimized inlet shape and draft tubes for boom-mounted ducted fans, minimizing aerodynamic losses.
+- Managed manufacturing and structural design of components and molds.
+- Assisted in mission planning and flight testing of the developed UAV system
+
 
 
 **Related Publications**:

@@ -14,7 +14,7 @@ main:
     url: /#publications
     weight: 12
   - name: Research and Projects
-    url: /projects/1_Research
+    url: /projects/Research
     weight: 13
   - name: CV
     url: /uploads/resume.pdf
