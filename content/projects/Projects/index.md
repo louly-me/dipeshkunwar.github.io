@@ -17,11 +17,11 @@ show_breadcrumb: false
   <!-- Slider for multiple images -->
   <div style="width: 48%;">
         <div id="slider" style="border-radius: 8px; overflow: hidden; position: relative;">
-            <div style="display: flex; transition: transform 0.5s ease; width: 400%;">
-                 <img src="ifda-1.png" alt="Slide 1" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
-                <img src="ifda-2.png" alt="Slide 2" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
-                <img src="ifda-3.png" alt="Slide 3" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
-                <img src="ifda-4.png" alt="Slide 4" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
+            <div style="display: flex; transition: transform 0.5s ease; width: 100%;">
+                 <img src="Nexa-1.png" alt="Slide 1" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
+                <img src="Nexa-2.jpg" alt="Slide 2" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
+                <img src="Nexa-3.jpg" alt="Slide 3" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
+                <img src="Nexa-4.jpg" alt="Slide 4" style="width: 100%; height: auto; flex-shrink: 0; object-fit: cover;">
             </div>
         </div>
         <!-- Controls -->
