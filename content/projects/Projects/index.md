@@ -76,7 +76,7 @@ section using NI-SCB 68 DAQ system.
 
 ## Design and Manufacture of a Can-Sat for a High Altitude Baloon
 <small> Mechanical Design Lead| Initiated by [SEDS-Pulchowk](https://seds.pcampus.edu.np/) , in collaboration with [SEDS-Nepal](https://sedsnepal.org/)-High altitude balloon project </small>
-<div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 40px;">
     <img src="SAT-1.png" alt="Image 1" style="width: 30%; height: 200px; border-radius: 8px;">
     <img src="SAT-2.png" alt="Image 2" style="width: 30%; height: 200px; border-radius: 8px;">
 </div>
