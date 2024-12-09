@@ -81,6 +81,7 @@ show_breadcrumb: false
     <img src="AIAA-1.png" alt="Image 1" style="width: 48%; border-radius: 8px; height: auto;">
     <img src="AIAA-3.png" alt="Image 2" style="width: 48%; border-radius: 8px; height: auto; object-fit: cover;">
 </div>
+
 ## Design and Fabrication of a 4-axis Hotwire CNC Foam Cutter
 <small> for the AIAA-DBF Club </small>
 <div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
