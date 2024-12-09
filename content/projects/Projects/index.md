@@ -6,7 +6,7 @@ type: docs
 pager: false
 show_breadcrumb: false
 ---
-
+<!—more—>
 ## XF-11 Replica VTOL Design and Testing using Tilt Rotor and Thrust Vectoring
 <small> In association with NEXA Flight, South Africa </small>
 
