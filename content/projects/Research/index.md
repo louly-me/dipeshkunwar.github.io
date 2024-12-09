@@ -4,10 +4,7 @@ summary:
 date: 2024-12-09
 type: docs
 pager: false
-show_breadcrumb: false
-header:
-  navbar:
-    enable: false
+show_breadcrumb: true
 ---
 
 ## In situ Flight Data Analysis, Performance, and Planning for STOL Operations

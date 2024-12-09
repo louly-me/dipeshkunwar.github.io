@@ -5,9 +5,6 @@ date: 2024-12-08
 type: docs
 pager: false
 show_breadcrumb: false
-header:
-  navbar:
-    enable: false
 ---
 
 ## XF-11 Replica VTOL Design and Testing using Tilt Rotor and Thrust Vectoring
@@ -81,7 +78,7 @@ section using NI-SCB 68 DAQ system.
 - Contributed directly to design optimization and material selection and supervised the fabrication process of the satellite’s mechanical structure.
 
 ## Design and Fabrication of Twin-Boom Radio-Controlled (RC) UAV systems
-<small> Mechanical Design Lead| Initiated by [SEDS-Pulchowk](https://seds.pcampus.edu.np/) , in collaboration with [SEDS-Nepal](https://sedsnepal.org/)-High altitude balloon project </small>
+
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img src="LG-1.jpeg" alt="Image 1" style="width: 48%; border-radius: 8px;">
     <img src="LG-2.jpeg" alt="Image 2" style="width: 48%; border-radius: 8px;">
