@@ -7,22 +7,24 @@ type: docs
 
 ## In situ Flight Data Analysis, Performance, and Planning for STOL Operations
 <small>Supervised by Dr. Sudip Bhattrai</small>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="ifda-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="ifda-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
+</div>
 - Designed an In Situ Flight Data Analysis (iFDA) toolbox for turboprop aircraft, offering real-time performance calculations and decision-making aids, validated within 3% accuracy against flight manuals and simulations.
 - Integrated terrain proximity analysis and dynamic decision support to improve operational safety in complex, geographically constrained short takeoff and landing (STOL) environments.
 - Demonstrated the toolbox’s capability in real-time path planning and Controlled Flight Into Terrain (CFIT) avoidance for challenging terrains, such as Nepal’s Annapurna region.
 
-{{< youtube D2vj0WcvH5c >}}
 
 **Related Publications**:
 
 [1] **D. Kunwar**, P. Bhandari, S. Shrestha, S. Bhattrai, V. Paudel and S. Neupane, _“In situ Flight Data Analysis, Performance, and Planning for STOL Operations,”_ AIAA Aviation Forum and ASCEND, Jul. 2024.Available: https://doi.org/10.2514/6.2024-4253
 
 ## Formulation of Insitu Flight Performance Toolbox for Decision Support System
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="ifda-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="ifda-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
-</div>
 <small>Undergraduate Thesis, Supervised by Dr. Sudip Bhattrai and Er. Vishal Paudel</small>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+       <img src="GUI.pdf" alt="Image 2" style="width: 75%; border-radius: 8px;">
+</div>
 - Developed a mathematical model to estimate operational requirements and performance calculations for various
 flight phases using MATLAB, particularly tailored to the DHC-6, series 300 aircraft.
 - Validated and tested the model by cross-referencing it with performance charts and supplementary data obtained
