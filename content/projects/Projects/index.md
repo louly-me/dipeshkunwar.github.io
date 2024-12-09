@@ -11,9 +11,43 @@ show_breadcrumb: false
 <small> In association with NEXA Flight, South Africa </small>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="ifda-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="ifda-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
+    <!-- Static Image -->
+    <img src="Nexa-5.jpg" alt="Image 1" style="width: 48%; border-radius: 8px;">
+
+    <!-- Slider for multiple images -->
+    <div style="width: 48%;">
+        <div id="slider" style="border-radius: 8px; overflow: hidden; position: relative;">
+            <div style="display: flex; transition: transform 0.5s ease; width: 400%;">
+                <img src="Nexa-1.png" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
+                <img src="Nexa-2.jpg" alt="Slide 2" style="width: 100%; flex-shrink: 0;">
+                <img src="Nexa-3.jpg" alt="Slide 3" style="width: 100%; flex-shrink: 0;">
+                <img src="Nexa-4.kpg" alt="Slide 4" style="width: 100%; flex-shrink: 0;">
+            </div>
+        </div>
+        <!-- Controls -->
+        <button onclick="prevSlide()" \style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 1;">◀</button>
+        <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 1;">▶</button>
+    </div>
 </div>
+
+<script>
+    let currentIndex = 0;
+
+    function showSlide(index) {
+        const slider = document.querySelector('#slider > div');
+        const totalSlides = slider.children.length;
+        currentIndex = (index + totalSlides) % totalSlides;
+        slider.style.transform = `translateX(-${currentIndex * 100}%)`;
+    }
+
+    function prevSlide() {
+        showSlide(currentIndex - 1);
+    }
+
+    function nextSlide() {
+        showSlide(currentIndex + 1);
+    }
+</script>
 
 - Led preliminary design and analysis for UAV with tilt-rotor mechanics and thrust vectoring to enable VTOL capabilities.
 - Optimized inlet shape and draft tubes for boom-mounted ducted fans, minimizing aerodynamic losses.
