@@ -26,7 +26,7 @@ show_breadcrumb: false
         </div>
         <!-- Controls -->
         <button onclick="prevSlide()" \style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 1;">◀</button>
-        <button onclick="nextSlide()" \style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 1;">▶</button>
+        <button onclick="nextSlide()" \style="position: absolute; right: 30px; top: 50%; transform: translateY(-50%); z-index: 1;">▶</button>
     </div>
 </div>
 
