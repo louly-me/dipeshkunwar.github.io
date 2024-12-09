@@ -3,16 +3,7 @@ title: Research Projects
 summary:
 date: 2023-10-24
 type: docs
-math: false
-tags:
-  - JavaScript
 ---
-
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
-
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
 ## In situ Flight Data Analysis, Performance, and Planning for STOL Operations
 <small>Supervised by Dr. Sudip Bhattrai</small>
@@ -24,11 +15,14 @@ On this page, you'll find some examples of the types of technical content that c
 
 **Related Publications**:
 
-[1] **D. Kunwar**, P. Bhandari, S. Shrestha, S. Bhattrai, and S. Neupane, “In situ Flight Data Analysis, Performance, and Planning for STOL Operations,” AIAA Aviation Forum and ASCEND, Jul. 2024.Available: https://doi.org/10.2514/6.2024-4253
+[1] **D. Kunwar**, P. Bhandari, S. Shrestha, S. Bhattrai, V. Paudel and S. Neupane, _“In situ Flight Data Analysis, Performance, and Planning for STOL Operations,”_ AIAA Aviation Forum and ASCEND, Jul. 2024.Available: https://doi.org/10.2514/6.2024-4253
 
 ## Formulation of Insitu Flight Performance Toolbox for Decision Support System
-<small>Undergraduate Thesis
-Supervised by Dr. Sudip Bhattrai and Er. Vishal Paudel</small>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="ifda-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="ifda-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
+</div>
+<small>Undergraduate Thesis, Supervised by Dr. Sudip Bhattrai and Er. Vishal Paudel</small>
 - Developed a mathematical model to estimate operational requirements and performance calculations for various
 flight phases using MATLAB, particularly tailored to the DHC-6, series 300 aircraft.
 - Validated and tested the model by cross-referencing it with performance charts and supplementary data obtained
@@ -40,3 +34,12 @@ from Nepal Airlines Corporation.
 
 [1] **D. Kunwar**, P. Bhandari,and S. Shrestha, _“Formulation of Insitu Flight Performance Toolbox for Decision Support System,"_ Thesis, Tribhuvan University, Institute of Engineering, Pulchowk Campus, 2023. Available: https://elibrary.tucl.edu.np/handle/20.500.14540/17733
 
+##  Study on Effects of Spring and Damping Elements on UAV Landing Gear System
+- Aimed at development of a suitable damping mechanism in landing gear to ensure safety of sensitive payloads during the delivery using UAV
+- Formulated a Simulink-based model to study the effects of spring and damping elements in a simplified oleo strut landing gear system for Unmanned Aerial Systems (UAS).
+- Utilized the model developed to choose suitable materials for spring and damper to limit the transmitted shock within 5g’s to ensure the safety of medical packages for a fixed-wing medical delivery drone
+
+**Related Publications**:
+
+[1] ] **D. Kunwar**, P. Paudel, S. Dhakal, S. Pandey, and S. Paudel, _“Study on Effect of Spring and Damping Elements on UAV Landing Gear System,”_ Poster, International Conference on Vibration Engineering and Technology
+of Machinery (VETOMAC), Springer Nature, 2022
