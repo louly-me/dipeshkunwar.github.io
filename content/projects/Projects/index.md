@@ -57,8 +57,8 @@ show_breadcrumb: false
 
 ## Design and Analysis of a Multi-Engine General Aviation Trainer Aircraft
 <small> Senior Design Project, Supervised by Dr. Sudip Bhattrai </small>
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-       <img src="GUI.png" alt="Image 2" style="width: 75%; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
+    <img src="APD-1.png" alt="Image 2" style="width: 75%; border-radius: 8px;">
 </div>
 
 - Designed a preliminary model of a multi-engine general aviation trainer aircraft capable of STOL operations.
@@ -69,8 +69,8 @@ show_breadcrumb: false
 ## Design and Fabrication of a Medical Delivery Drone
 <small> for the AIAA Design, Build, and Fly (DBF) Competition-2022</small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="LG-1.jpeg" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="LG-2.jpeg" alt="Image 2" style="width: 48%; border-radius: 8px;">
+    <img src="AIAA-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="AIAA-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
 </div>
 
 - Studied the effectiveness of UAVs’ usage in delivering medical and critical emergency supplies in rural areas.
@@ -80,9 +80,8 @@ show_breadcrumb: false
 
 ## Design and Fabrication of a 4-axis Hotwire CNC Foam Cutter
 <small> for the AIAA-DBF Club </small>
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="LG-1.jpeg" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="LG-2.jpeg" alt="Image 2" style="width: 48%; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
+    <img src="CNC.jpg" alt="Image 2" style="width: 50%; border-radius: 8px;">
 </div>
 
 - Designed and fabricated a 4-axis Hotwire CNC Foam Cutter to shape styrofoam panels to the desired form for wings and empennage.
@@ -91,8 +90,9 @@ show_breadcrumb: false
 ## Study of Aerodynamic Forces on a NACA 0012 Foil Using DAQ system in a Low Subsonic Wind Tunnel
 <small> Academic Project, Supervised by Asst. Prof. Kamal Darlami </small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="LG-1.jpeg" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="LG-2.jpeg" alt="Image 2" style="width: 48%; border-radius: 8px;">
+    <img src="DAQ-1.jpeg" alt="Image 1" style="width: 31%; border-radius: 8px;">
+    <img src="DAQ-2.jpeg" alt="Image 2" style="width: 31%; border-radius: 8px;">
+    <img src="DAQ-3.jpeg" alt="Image 2" style="width: 31%; border-radius: 8px;">
 </div>
 
 - Designed and fabricated a wing mounting system for the low subsonic open-circuit wind tunnel test section at IIEC (Incubation Innovation and Entrepreneurship Centre).
@@ -104,8 +104,8 @@ section using NI-SCB 68 DAQ system.
 ## Design and Manufacture of a Can-Sat for a High Altitude Baloon
 <small> Mechanical Design Lead| Initiated by [SEDS-Pulchowk](https://seds.pcampus.edu.np/) , in collaboration with [SEDS-Nepal](https://sedsnepal.org/)-High altitude balloon project </small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="LG-1.jpeg" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="LG-2.jpeg" alt="Image 2" style="width: 48%; border-radius: 8px;">
+    <img src="SAT-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="SAT-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
 </div>
 
 - Worked on the mechanical design team to design a Can-Sat for humidity sensing, to be launched through a high-altitude balloon.
@@ -114,8 +114,8 @@ section using NI-SCB 68 DAQ system.
 ## Design and Fabrication of Twin-Boom Radio-Controlled (RC) UAV systems
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="LG-1.jpeg" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="LG-2.jpeg" alt="Image 2" style="width: 48%; border-radius: 8px;">
+    <img src="UAV-1.jpg" alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="UAV-2.jpg" alt="Image 2" style="width: 48%; border-radius: 8px;">
 </div>
 
 - Developed and constructed a twin-boom puller radio-controlled (RC) aircraft as part of the [Society of Mechanical and Aerospace Engineering’s (SOMAES)](https://somes.ioe.edu.np/) initiative.
