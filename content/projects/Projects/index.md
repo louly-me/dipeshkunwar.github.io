@@ -11,11 +11,11 @@ show_breadcrumb: false
 <small> In association with NEXA Flight, South Africa </small>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <!-- Static Image -->
-    <img src="Nexa-5.jpg" alt="Image 1" style="width: 48%; border-radius: 8px;">
+   <!-- Static Image -->
+   <img src="Nexa-5.jpg" alt="Image 1" style="width: 48%; border-radius: 8px;">
 
-    <!-- Slider for multiple images -->
-    <div style="width: 48%;">
+  <!-- Slider for multiple images -->
+  <div style="width: 48%;">
         <div id="slider" style="border-radius: 8px; overflow: hidden; position: relative;">
             <div style="display: flex; transition: transform 0.5s ease; width: 400%;">
                 <img src="Nexa-1.png" alt="Slide 1" style="width: 100%; flex-shrink: 0;">
