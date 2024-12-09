@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      view: showcase
+      columns: '1'
+      flip_alt_rows: true
 ---
