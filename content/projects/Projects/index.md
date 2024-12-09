@@ -26,7 +26,7 @@ show_breadcrumb: false
         </div>
         <!-- Controls -->
         <button onclick="prevSlide()" \style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 1;">◀</button>
-        <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 1;">▶</button>
+        <button onclick="nextSlide()" \style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 1;">▶</button>
     </div>
 </div>
 
@@ -104,9 +104,9 @@ section using NI-SCB 68 DAQ system.
 
 ## Design and Manufacture of a Can-Sat for a High Altitude Baloon
 <small> Mechanical Design Lead| Initiated by [SEDS-Pulchowk](https://seds.pcampus.edu.np/) , in collaboration with [SEDS-Nepal](https://sedsnepal.org/)-High altitude balloon project </small>
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="SAT-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="SAT-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; space-between; gap: 10px;">
+    <img src="SAT-1.png" alt="Image 1" style="width: 30%; border-radius: 8px;">
+    <img src="SAT-2.png" alt="Image 2" style="width: 30%; border-radius: 8px;">
 </div>
 
 - Worked on the mechanical design team to design a Can-Sat for humidity sensing, to be launched through a high-altitude balloon.
