@@ -7,7 +7,7 @@ pager: false
 show_breadcrumb: false
 ---
 
-## <span id="short-label">iFDA</span> In situ Flight Data Analysis, Performance, and Planning for STOL Operations
+## In situ Flight Data Analysis, Performance, and Planning for STOL Operations
 <small>Supervised by Dr. Sudip Bhattrai</small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img src="ifda-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
@@ -23,7 +23,7 @@ show_breadcrumb: false
 
 [1] **D. Kunwar**, P. Bhandari, S. Shrestha, S. Bhattrai, V. Paudel and S. Neupane, _“In situ Flight Data Analysis, Performance, and Planning for STOL Operations,”_ AIAA Aviation Forum and ASCEND, Jul. 2024.Available: https://doi.org/10.2514/6.2024-4253
 
-## <span id="short-label">Decision Support Tool</span> Formulation of Insitu Flight Performance Toolbox for Decision Support System
+## Formulation of Insitu Flight Performance Toolbox for Decision Support System
 <small>Undergraduate Thesis, Supervised by Dr. Sudip Bhattrai and Er. Vishal Paudel</small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
        <img src="GUI.png" alt="Image 2" style="width: 75%; border-radius: 8px;">
@@ -40,10 +40,10 @@ from Nepal Airlines Corporation.
 
 [1] **D. Kunwar**, P. Bhandari,and S. Shrestha, _“Formulation of Insitu Flight Performance Toolbox for Decision Support System,"_ Thesis, Tribhuvan University, Institute of Engineering, Pulchowk Campus, 2023. Available: https://elibrary.tucl.edu.np/handle/20.500.14540/17733
 
-## <span id="short-label">UAV Landing Gear System </span> Study on Effects of Spring and Damping Elements on UAV Landing Gear System
+## Study on Effects of Spring and Damping Elements on UAV Landing Gear System
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="LG-1.jpeg alt="Image 1" style="width: 48%; border-radius: 8px;">
+    <img src="LG-1.jpeg" alt="Image 1" style="width: 48%; border-radius: 8px;">
     <img src="LG-2.jpeg" alt="Image 2" style="width: 48%; border-radius: 8px;">
 </div>
 
