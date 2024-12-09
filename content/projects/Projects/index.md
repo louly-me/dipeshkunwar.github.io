@@ -69,7 +69,12 @@ show_breadcrumb: false
 ## Design and Fabrication of a Medical Delivery Drone
 <small> for the AIAA Design, Build, and Fly (DBF) Competition-2022</small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="AIAA-2.png" alt="Image 2" style="width: 60%; border-radius: 8px; height: auto; object-fit: cover;">
+    <img src="AIAA-1.png" alt="Image 1" style="width: 48%; border-radius: 8px; height: auto;">
+    <img src="AIAA-3.png" alt="Image 2" style="width: 48%; border-radius: 8px; height: auto; object-fit: cover;">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
+    <img src="AIAA-2.png" alt="Image 2" style="width: 50%; border-radius: 8px; height: auto; object-fit: cover;">
 </div>
 
 - Studied the effectiveness of UAVs’ usage in delivering medical and critical emergency supplies in rural areas.
@@ -77,10 +82,6 @@ show_breadcrumb: false
 - Developed a conveyer-based payload drop-off mechanism capable of holding and unloading 4 medical payload pallets, weighing 8 ounces each, in a mission-specified pattern.
 - Conducted structural analysis of the UAV components and performed experimental works for the ground and flight testing of the UAV.
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="AIAA-1.png" alt="Image 1" style="width: 48%; border-radius: 8px; height: auto;">
-    <img src="AIAA-3.png" alt="Image 2" style="width: 48%; border-radius: 8px; height: auto; object-fit: cover;">
-</div>
 
 ## Design and Fabrication of a 4-axis Hotwire CNC Foam Cutter
 <small> for the AIAA-DBF Club </small>
@@ -108,8 +109,8 @@ section using NI-SCB 68 DAQ system.
 ## Design and Manufacture of a Can-Sat for a High Altitude Baloon
 <small> Mechanical Design Lead| Initiated by [SEDS-Pulchowk](https://seds.pcampus.edu.np/) , in collaboration with [SEDS-Nepal](https://sedsnepal.org/)-High altitude balloon project </small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="SAT-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="SAT-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
+    <img src="SAT-1.png" alt="Image 1" style="height: 70px; border-radius: 8px;">
+    <img src="SAT-2.png" alt="Image 2" style="height: 70px; border-radius: 8px;">
 </div>
 
 - Worked on the mechanical design team to design a Can-Sat for humidity sensing, to be launched through a high-altitude balloon.
