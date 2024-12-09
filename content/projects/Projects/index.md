@@ -69,9 +69,10 @@ show_breadcrumb: false
 ## Design and Fabrication of a Medical Delivery Drone
 <small> for the AIAA Design, Build, and Fly (DBF) Competition-2022</small>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="AIAA-1.png" alt="Image 1" style="width: 48%; border-radius: 8px;">
-    <img src="AIAA-2.png" alt="Image 2" style="width: 48%; border-radius: 8px;">
+    <img src="AIAA-1.png" alt="Image 1" style="width: 48%; border-radius: 8px; height: auto;">
+    <img src="AIAA-2.png" alt="Image 2" style="width: 48%; border-radius: 8px; height: auto; object-fit: cover;">
 </div>
+
 
 - Studied the effectiveness of UAVs’ usage in delivering medical and critical emergency supplies in rural areas.
 - Led design and analysis team contributing directly to the conceptual and detailed design of the fixed-wing medical drone.
