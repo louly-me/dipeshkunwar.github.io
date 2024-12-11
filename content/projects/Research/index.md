@@ -72,4 +72,4 @@ performance
 
 
 
-**Additional information on previous project works can be found in the project tab <u><a href="https://www.dipeshkunwar.com.np\projects\projects">here</a></u>**
+**Additional information on previous project works can be found in the projects tab <u><a href="https://www.dipeshkunwar.com.np\projects\projects">here</a></u>**
