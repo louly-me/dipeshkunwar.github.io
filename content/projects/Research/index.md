@@ -69,3 +69,6 @@ performance
 **Related Publications**:
 
 [1] B. Parajuli, **D. Kunwar**,  P. Regmi, and S. Shrestha, _“Study of Temperature Distribution and Cooling Effectiveness for Combined Impingement-Convection Cooling (CICC) in Strut Insert Turbine Blade,” Preprint, 2021
+
+
+** Additional information on previous project works can be found in the project tab [<u>here</u>](\projects\projects)
