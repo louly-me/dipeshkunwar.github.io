@@ -22,7 +22,7 @@ publishDate: '2025-05-19T00:00:00'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Preprint / Working Paper']
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Air Transportation (Under Review)*
