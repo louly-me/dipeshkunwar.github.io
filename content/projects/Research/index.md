@@ -25,6 +25,8 @@ show_breadcrumb: true
 
 [1] **D. Kunwar**, P. Bhandari, S. Shrestha, S. Bhattrai, V. Paudel and S. Neupane, “In situ Flight Data Analysis, Performance, and Planning for STOL Operations,” _AIAA Aviation Forum and ASCEND_, Jul. 2024.Available: https://doi.org/10.2514/6.2024-4253
 
+[2] **D. Kunwar**, P. Bhandari, S. Shrestha, and S. Bhattrai, “STOL Operations Based on In Situ Flight Data and Performance Analysis,” _Journal of Air Transportation_, (Under Review)
+
 ## Formulation of Insitu Flight Performance Toolbox for Decision Support System
 <small>Undergraduate Thesis, Supervised by Dr. Sudip Bhattrai and Er. Vishal Paudel</small>
 <div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 10px;">
