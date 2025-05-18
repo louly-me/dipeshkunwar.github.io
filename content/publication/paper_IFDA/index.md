@@ -12,17 +12,16 @@ authors:
 
 # Author notes (optional)
 author_notes:
-
 date: '2025-07-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-05-19T00:00:00'
+publishDate: '2025-05-18T00:00:00'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["3"]
+publication_types: [article"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Air Transportation (Under Review)*
