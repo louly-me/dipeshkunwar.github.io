@@ -21,7 +21,7 @@ publishDate: '2025-05-18T00:00:00'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: [article"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Air Transportation (Under Review)*
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'kunwar-et-al-2024-iFDA.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
